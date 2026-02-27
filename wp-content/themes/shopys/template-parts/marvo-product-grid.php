@@ -155,9 +155,9 @@ function marvo_premium_products_shortcode( $atts ) {
                     <?php endif; ?>
 
                     <!-- Add to Cart -->
-                    <div class="ppg-actions">
+                    <!-- <div class="ppg-actions">
                         <?php woocommerce_template_loop_add_to_cart(); ?>
-                    </div>
+                    </div> -->
                 </div>
 
             </div>
