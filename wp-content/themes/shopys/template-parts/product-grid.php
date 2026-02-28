@@ -186,11 +186,11 @@ function premium_product_grid_shortcode( $atts ) {
                         <?php woocommerce_template_loop_add_to_cart(); ?>
                     </div>
                     <?php else : ?>
-                    <!-- <div class="ppg-actions">
+                    <div class="ppg-actions">
                         <a href="<?php echo esc_url( get_permalink() ); ?>" class="button ppg-view-btn">
                             <?php esc_html_e( 'View Product', 'shopys' ); ?>
                         </a>
-                    </div> -->
+                    </div>
                     <?php endif; ?>
                 </div>
             </div>

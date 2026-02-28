@@ -404,15 +404,15 @@ function shopys_announcement_banner() {
         letter-spacing: 0.3px;
     }
     .shopys-ann-badge {
-        background: rgba(255,255,255,0.22);
-        color: #fff;
+        background: rgb(255,193,212);
+        color: #d40040;
         font-size: 10px;
         font-weight: 700;
         padding: 2px 8px;
         border-radius: 20px;
         letter-spacing: 0.5px;
         text-transform: uppercase;
-        border: 1px solid rgba(255,255,255,0.3);
+        border: 1px solid rgb(255,173,198);
     }
     </style>
     <?php
